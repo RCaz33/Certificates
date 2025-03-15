@@ -1,3 +1,6 @@
+# Past research activities
+A pdf document with details on past academic work.
+
 # Certificates
 Programming certificates
 
